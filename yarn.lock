@@ -43,8 +43,8 @@ body-parser@^1.17.2:
     type-is "~1.6.15"
 
 bson@~1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.4.tgz#93c10d39eaa5b58415cbc4052f3e53e562b0b72c"
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.5.tgz#34563b73ff1fde9387c1b9fb5afd845ecc4ba623"
 
 buffer-shims@~1.0.0:
   version "1.0.0"
